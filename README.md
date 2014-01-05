@@ -3,7 +3,7 @@ CArtisteerMenu
 
 Wrapper Artisteer menu to Yii Framework
 
-> *Write code in tag <nav class="art-nav clearfix">  <!-- Menu on here -->  </nav>*
+> *Write code in tag &lt;nav class="art-nav clearfix"&gt;  &lt;!-- Menu on here --&gt;  &lt;/nav&gt;*
 
 #### Example
 ```php
