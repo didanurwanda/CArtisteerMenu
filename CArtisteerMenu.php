@@ -49,7 +49,6 @@ class CArtisteerMenu extends CMenu {
      * Note that the container and the sub-menus are not rendered here.
      * @param array $item the menu item to be rendered. Please see {@link items} on what data might be in the item.
      * @return string
-     * @since 1.1.6
      */
     protected function renderMenuItem($item) {
         if ($item['active'] && $this->activeCssClass != '') {
