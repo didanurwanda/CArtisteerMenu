@@ -7,7 +7,7 @@ Wrapper Artisteer menu on Yii Framework
 
 #### Example
 ```php
-<?php $this->widget('zii.CArtisteerMenu', array(
+<?php $this->widget('ext.CArtisteerMenu', array(
 	items' => array(
 		array('label' => 'Home', 'url' => array('/site/index')),
 		array('label' => 'Contact', 'url' => array('/site/contact')),
